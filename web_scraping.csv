@@ -1,0 +1,551 @@
+;Preço_hoje;Liquidez_media;P/L;P/VP;Dy 12m 2021;Dl/Pl_hoje;Lpa_2020;Lpa_2019;Setor;Sub_setor
+AALR3;18,45;18.039.137,40;56,78;1,81;-%;0,51;-0,82;0,35;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+ABCB4;17,55;17.979.321,04;7,66;0,87;5,71%;-;1,54;2,28;Financeiro e Outros;Intermediários Financeiros
+ABEV3;16,10;444.365.135,76;15,99;2,92;3,05%;-0,20;0,72;0,75;Consumo não Cíclico;Bebidas
+ADHM3;1,56;94.201,44;-4,09;-1,29;-%;-;-0,38;7,03;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+AERI3;7,85;13.980.499,84;90,16;5,91;-%;0,53;0,15;-;Bens Industriais;Máquinas e Equipamentos
+AFLT3;8,83;9.076,04;28,28;3,12;7,14%;-0,11;0,30;0,40;Utilidade Pública;Energia Elétrica
+AGRO3;24,29;23.031.015,00;5,61;1,14;10,79%;-0,09;5,11;2,10;Consumo não Cíclico;Agropecuária
+AHEB3;27,00;5.800,22;-3,81;-4,80;-%;-;-2,80;-18,16;Consumo Cíclico;Viagens e Lazer
+AHEB5;23,00;3.800,00;-3,25;-4,09;-%;-;-2,80;-18,16;Consumo Cíclico;Viagens e Lazer
+AHEB6;51,50;6.742,00;-7,27;-9,15;-%;-;-2,80;-18,16;Consumo Cíclico;Viagens e Lazer
+ALPA3;33,36;79.517,32;43,64;5,88;0,74%;-0,20;0,24;0,47;Consumo Cíclico;Tecidos. Vestuário e Calçados
+ALPA4;40,03;108.793.852,36;52,37;7,06;0,68%;-0,20;0,24;0,47;Consumo Cíclico;Tecidos. Vestuário e Calçados
+ALPK3;4,48;141.372,76;-4,95;1,86;-%;2,79;-0,88;-;Bens Industriais;Serviços
+ALSO3;20,60;32.070.375,88;33,30;0,82;1,10%;0,13;0,64;-;Financeiro e Outros;Exploração de Imóveis
+ALUP11;24,49;100 %;5,11;1,09;3,43%;1,20;3,21;3,04;Utilidade Pública;Energia Elétrica
+ALUP3;8,14;100.473,36;5,09;1,08;3,44%;1,20;1,07;1,01;Utilidade Pública;Energia Elétrica
+ALUP4;8,24;110.719,04;5,15;1,10;3,40%;1,20;1,07;1,01;Utilidade Pública;Energia Elétrica
+AMAR3;4,17;39.373.783,08;3,88;1,17;-%;1,31;0,00;-0,55;Consumo Cíclico;Comércio
+AMBP3;41,57;58.678.295,08;34,68;3,99;0,23%;1,30;0,40;-;Utilidade Pública;Água e Saneamento
+ANDG3B;28,82;-;59,95;2,23;-%;0,13;0,48;0,48;Financeiro e Outros;Holdings Diversificadas
+ANDG4B;0,00;-;0,00;0,00;-%;0,13;0,48;0,48;Financeiro e Outros;Holdings Diversificadas
+ANIM3;8,81;33.178.104,88;101,22;1,38;-%;1,70;-0,31;-0,12;Consumo Cíclico;Diversos
+APER3;29,89;1.612.218,24;-2.859,51;1,17;-%;-0,35;-;0,33;Financeiro e Outros;Previdência e Seguros
+APTI3;197,64;-;-0,36;0,01;239,54%;-0,02;3.517,13;-990,86;Consumo não Cíclico;Agropecuária
+APTI4;3.500,00;-;-6,45;0,26;14,88%;-0,02;3.517,13;-990,86;Consumo não Cíclico;Agropecuária
+ARZZ3;74,11;87.671.786,72;25,72;4,77;1,25%;0,18;0,49;1,80;Consumo Cíclico;Comércio
+ATMP3;3,36;191.873,80;-0,88;0,47;-%;1,46;-8,70;-;Bens Industriais;Serviços
+ATOM3;3,05;109.257,68;8,32;3,57;9,84%;-0,87;0,59;0,10;Financeiro e Outros;Outros
+AURA33;47,05;5.020.857,68;7,84;2,22;9,76%;-0,03;19,96;-;Materiais Básicos;Mineração
+AVLL3;21,89;1.069.868,68;-0,96;3,63;-%;5,68;-13,68;-;Consumo Cíclico;Construção Civil
+AZEV3;3,73;405.262,32;1,88;4,56;-%;-1,32;-1,86;-1,33;Bens Industriais;Construção e Engenharia
+AZEV4;3,14;1.387.602,76;1,59;3,83;-%;-1,32;-1,86;-1,33;Bens Industriais;Construção e Engenharia
+AZUL4;24,73;271.190.453,24;-7,55;-1,74;-%;-;-8,61;-1,91;Bens Industriais;Transporte
+B3SA3;12,05;446.986.398,96;15,63;3,27;7,96%;-0,44;2,02;1,32;Financeiro e Outros;Serviços Financeiros Diversos
+BAHI3;14,20;30.225,20;-5,41;1,52;-%;0,04;-20,46;-3,39;Consumo Cíclico;Diversos
+BALM3;15,85;6.789,13;20,58;1,30;2,15%;-0,14;1,74;0,64;Saúde;Equipamentos
+BALM4;13,69;7.982,84;17,78;1,12;2,99%;-0,14;1,74;0,64;Saúde;Equipamentos
+BAUH4;83,00;41.951,26;22,17;4,40;-%;-0,11;4,49;5,14;Consumo não Cíclico;Alimentos Processados
+BAZA3;39,50;25.943,10;2,07;0,41;6,58%;-;8,96;9,29;Financeiro e Outros;Intermediários Financeiros
+BBAS3;32,60;491.524.595,80;5,37;0,68;6,77%;-;4,64;5,72;Financeiro e Outros;Intermediários Financeiros
+BBDC3;17,78;149.666.210,92;7,13;1,17;6,16%;-;1,81;2,61;Financeiro e Outros;Intermediários Financeiros
+BBDC4;20,95;956.317.577,96;8,40;1,38;5,75%;-;1,81;2,61;Financeiro e Outros;Intermediários Financeiros
+BBML3;3.936,42;-;5.752,19;1.032,22;0,01%;2,08;0,22;0,38;Bens Industriais;Serviços
+BBRK3;1,05;2.745.326,12;-0,66;1,99;-%;-0,48;-4,91;-2,46;Financeiro e Outros;Exploração de Imóveis
+BBSE3;21,22;101.107.060,08;11,71;5,45;4,70%;-;1,93;3,33;Financeiro e Outros;Previdência e Seguros
+BDLL3;11,50;45.610,42;-0,48;-0,10;-%;-;-40,91;-127,76;Bens Industriais;Máquinas e Equipamentos
+BDLL4;11,00;10.083,81;-0,46;-0,09;-%;-;-40,91;-127,76;Bens Industriais;Máquinas e Equipamentos
+BEEF3;8,67;67.267.305,20;9,21;10,73;12,93%;12,04;1,27;0,04;Consumo não Cíclico;Alimentos Processados
+BEES3;4,75;64.495,12;6,35;0,82;6,22%;-;0,70;0,68;Financeiro e Outros;Intermediários Financeiros
+BEES4;5,66;14.425,36;7,56;0,97;5,22%;-;0,70;0,68;Financeiro e Outros;Intermediários Financeiros
+BFRE11;0,00;-;0,00;0,00;-%;-;11.800,56;19.654,11;Financeiro e Outros;Serviços Financeiros Diversos
+BFRE12;0,00;-;0,00;0,00;-%;-;11.800,56;19.654,11;Financeiro e Outros;Serviços Financeiros Diversos
+BGIP3;31,50;3.687,36;5,21;0,86;3,59%;-;3,56;5,47;Financeiro e Outros;Intermediários Financeiros
+BGIP4;23,49;7.732,25;3,89;0,64;5,30%;-;3,56;5,47;Financeiro e Outros;Intermediários Financeiros
+BIDI11;37,41;100 %;601,38;3,77;0,13%;-;-0,03;2,33;Financeiro e Outros;Intermediários Financeiros
+BIDI3;12,47;20.429.096,08;601,38;3,77;0,13%;-;-0,01;0,78;Financeiro e Outros;Intermediários Financeiros
+BIDI4;12,38;136.474.632,64;597,04;3,74;0,13%;-;-0,01;0,78;Financeiro e Outros;Intermediários Financeiros
+BIOM3;13,23;100.977,40;-12,07;6,31;-%;0,86;-1,05;-1,17;Saúde;Comércio e Distribuição
+BKBR3;7,18;29.084.195,68;-5,01;1,28;-%;0,22;-1,62;0,22;Consumo Cíclico;Hoteis e Restaurantes
+BMEB3;12,66;5.498,12;6,98;1,19;9,33%;-;3,48;2,11;Financeiro e Outros;Intermediários Financeiros
+BMEB4;10,03;68.013,64;5,53;0,94;12,95%;-;3,48;2,11;Financeiro e Outros;Intermediários Financeiros
+BMGB4;3,02;3.877.249,88;7,11;0,45;5,91%;-;0,53;1,94;Financeiro e Outros;Intermediários Financeiros
+BMIN3;24,98;7.875,33;31,71;0,95;-%;-;0,51;0,46;Financeiro e Outros;Intermediários Financeiros
+BMIN4;17,40;15.839,54;22,09;0,67;11,21%;-;0,51;0,46;Financeiro e Outros;Intermediários Financeiros
+BMKS3;228,98;11.567,65;25,30;0,55;3,46%;-0,72;7,66;5,91;Consumo Cíclico;Viagens e Lazer
+BNBR3;67,98;29.702,83;4,58;0,82;7,01%;-;11,80;20,11;Financeiro e Outros;Intermediários Financeiros
+BOAS3;6,55;9.101.711,32;24,30;1,74;0,32%;-0,56;0,10;-;Financeiro e Outros;Serviços Financeiros Diversos
+BOBR3;0,00;-;0,00;0,00;-%;-;0,15;-0,75;Consumo não Cíclico;Produtos de Uso Pessoal e de Limpeza
+BOBR4;1,77;75.623,72;3,65;-4,02;-%;-;0,15;-0,75;Consumo não Cíclico;Produtos de Uso Pessoal e de Limpeza
+BPAC11;21,20;100 %;11,26;2,24;1,54%;-;3,63;4,27;Financeiro e Outros;Intermediários Financeiros
+BPAC3;12,94;111.348,52;20,61;4,11;0,84%;-;1,21;1,42;Financeiro e Outros;Intermediários Financeiros
+BPAC5;5,01;101.984,04;7,98;1,59;2,17%;-;1,21;1,42;Financeiro e Outros;Intermediários Financeiros
+BPAN4;12,43;84.062.183,28;19,84;2,64;1,70%;-;0,52;0,54;Financeiro e Outros;Intermediários Financeiros
+BPAR3;182,07;-;9,08;1,06;5,69%;-;25,33;34,03;Financeiro e Outros;Intermediários Financeiros
+BPAT33;44,05;-;6,98;0,66;-%;-;6,31;6,31;Financeiro e Outros;Intermediários Financeiros
+BPHA3;0,62;-;0,06;-0,24;-%;-;10,40;10,40;Saúde;Comércio e Distribuição
+BRAP3;51,50;11.431.397,48;3,72;1,39;9,22%;-0,18;4,22;-1,16;Materiais Básicos;Mineração
+BRAP4;53,93;200.510.950,04;3,89;1,46;9,69%;-0,18;4,22;-1,16;Materiais Básicos;Mineração
+BRDT3;22,03;298.546.540,71;5,60;2,29;10,50%;0,78;3,35;1,90;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+BRFS3;20,44;141.368.659,60;40,80;2,19;-%;2,23;1,70;0,37;Consumo não Cíclico;Alimentos Processados
+BRGE11;7,91;1.151,80;25,58;0,47;4,65%;-1,22;0,56;0,68;Financeiro e Outros;Previdência e Seguros
+BRGE12;6,90;3.876,11;22,31;0,41;0,01%;-1,22;0,56;0,68;Financeiro e Outros;Previdência e Seguros
+BRGE3;8,18;2.999,67;26,45;0,48;0,01%;-1,22;0,56;0,68;Financeiro e Outros;Previdência e Seguros
+BRGE5;10,41;1.041,00;33,66;0,61;2,94%;-1,22;0,56;0,68;Financeiro e Outros;Previdência e Seguros
+BRGE6;9,00;1.800,00;29,10;0,53;8,17%;-1,22;0,56;0,68;Financeiro e Outros;Previdência e Seguros
+BRGE7;5,40;-;17,46;0,32;7,94%;-1,22;0,56;0,68;Financeiro e Outros;Previdência e Seguros
+BRGE8;10,24;1.024,00;33,11;0,60;2,99%;-1,22;0,56;0,68;Financeiro e Outros;Previdência e Seguros
+BRIV3;7,65;10.294,00;8,74;0,43;0,25%;-;0,85;0,78;Financeiro e Outros;Intermediários Financeiros
+BRIV4;7,69;35.996,60;8,79;0,43;7,81%;-;0,85;0,78;Financeiro e Outros;Intermediários Financeiros
+BRKM3;64,01;3.428.574,80;3,57;4,00;11,78%;1,49;-8,39;-3,51;Materiais Básicos;Químicos
+BRKM5;66,58;214.101.401,00;3,71;4,16;11,32%;1,49;-8,39;-3,51;Materiais Básicos;Químicos
+BRKM6;34,00;3.416,00;1,90;2,12;1,78%;1,49;-8,39;-3,51;Materiais Básicos;Químicos
+BRML3;7,93;154.191.020,32;34,59;0,65;-%;0,23;-0,34;1,43;Financeiro e Outros;Exploração de Imóveis
+BRPR3;7,33;15.050.549,36;14,78;0,49;2,69%;0,25;0,42;0,76;Financeiro e Outros;Exploração de Imóveis
+BRQB3;0,00;-;0,00;0,00;-%;-0,62;0,32;0,22;Tecnologia da Informação;Programas e Serviços
+BRSR3;12,08;95.077,96;5,29;0,56;8,38%;-;1,52;3,10;Financeiro e Outros;Intermediários Financeiros
+BRSR5;17,83;2.668,00;7,81;0,83;6,97%;-;1,52;3,10;Financeiro e Outros;Intermediários Financeiros
+BRSR6;9,98;32.371.980,52;4,37;0,47;10,15%;-;1,52;3,10;Financeiro e Outros;Intermediários Financeiros
+BSEV3;9,00;1.097.133,50;10,22;-10,84;-%;-;0,16;-1,52;Consumo não Cíclico;Alimentos Processados
+BSLI3;26,00;4.800,17;17,00;4,13;3,14%;-;10,64;10,61;Financeiro e Outros;Intermediários Financeiros
+BSLI4;16,96;6.042,90;11,09;2,70;5,29%;-;10,64;10,61;Financeiro e Outros;Intermediários Financeiros
+BTOW3;68,00;190.284.176,19;385,85;1,72;-%;0,23;-0,38;-0,70;Consumo Cíclico;Comércio
+BTTL3;19,72;531.776,64;4,25;3,12;-%;0,12;1,07;-0,30;Financeiro e Outros;Holdings Diversificadas
+BTTL4;11.091,73;-;3.119,58;2.291,17;-%;0,12;1,07;-0,30;Financeiro e Outros;Holdings Diversificadas
+CALI3;98,18;-;5,72;5,09;-%;6,00;5,22;-66,29;Consumo Cíclico;Construção Civil
+CALI4;50,00;9.554,00;2,91;2,59;-%;6,00;5,22;-66,29;Consumo Cíclico;Construção Civil
+CAMB3;4,79;118.268,28;14,65;1,91;-%;0,71;0,52;5,24;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CAMB4;6,25;-;19,12;2,49;-%;0,71;0,52;5,24;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CAML3;9,77;18.763.971,76;8,42;1,33;7,26%;0,46;1,25;0,58;Consumo não Cíclico;Alimentos Processados
+CARD3;13,12;4.413.835,28;9,48;1,71;2,97%;0,05;1,12;0,64;Bens Industriais;Serviços
+CASH3;3,43;178.102.901,36;-563,67;3,86;0,18%;-0,80;0,16;-;Tecnologia da Informação;Programas e Serviços
+CASN3;15,01;-;86,00;7,81;0,23%;0,85;0,15;0,17;Utilidade Pública;Água e Saneamento
+CASN4;8,37;-;47,95;4,35;0,46%;0,85;0,15;0,17;Utilidade Pública;Água e Saneamento
+CATA3;103,61;-;3,39;0,11;15,54%;0,34;-48,70;50,18;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CATA4;0,00;-;0,00;0,00;-%;0,34;-48,70;50,18;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CBEE3;23,00;6.063,91;145,09;1,06;0,30%;1,37;0,29;1,68;Utilidade Pública;Energia Elétrica
+CCPR3;10,16;4.350.524,79;70,99;1,29;6,92%;0,63;0,33;0,27;Financeiro e Outros;Exploração de Imóveis
+CCRO3;13,12;193.579.982,76;35,15;3,11;1,27%;1,88;0,09;0,71;Bens Industriais;Transporte
+CCXC3;1,16;-;-1,04;-0,03;-%;-;3,32;-2,54;Financeiro e Outros;Outros
+CEAB3;6,70;27.762.837,12;7,27;0,73;-%;0,14;-0,54;0,51;Consumo Cíclico;Comércio
+CEBR3;16,10;56.298,80;0,73;0,61;117,79%;-0,79;30,01;8,26;Utilidade Pública;Energia Elétrica
+CEBR5;15,70;19.641,52;0,71;0,59;120,79%;-0,79;30,01;8,26;Utilidade Pública;Energia Elétrica
+CEBR6;16,00;76.740,72;0,73;0,61;130,37%;-0,79;30,01;8,26;Utilidade Pública;Energia Elétrica
+CEDO3;7,01;14.591,20;5,87;0,51;-%;1,37;-4,15;-1,76;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CEDO4;5,49;11.566,91;4,60;0,40;-%;1,37;-4,15;-1,76;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CEEB3;32,99;167.533,17;5,06;1,36;19,85%;1,49;4,65;35,85;Utilidade Pública;Energia Elétrica
+CEEB5;39,00;7.800,00;5,98;1,61;16,79%;1,49;4,65;35,85;Utilidade Pública;Energia Elétrica
+CEEB6;60,68;-;9,31;2,50;11,87%;1,49;4,65;35,85;Utilidade Pública;Energia Elétrica
+CEED3;40,50;6.120,50;-2,98;-0,90;-%;-;-167,64;-111,82;Utilidade Pública;Energia Elétrica
+CEED4;55,80;5.580,00;-4,11;-1,24;-%;-;-167,64;-111,82;Utilidade Pública;Energia Elétrica
+CEGR3;60,00;9.002,50;38,01;12,35;2,26%;0,60;1,36;1,44;Utilidade Pública;Gás
+CEPE3;125,26;92.909,67;21,62;4,94;2,37%;2,85;2,91;2,43;Utilidade Pública;Energia Elétrica
+CEPE5;26,32;10.655,75;4,54;1,04;11,26%;2,85;2,91;2,43;Utilidade Pública;Energia Elétrica
+CEPE6;29,99;50.729,13;5,18;1,18;10,87%;2,85;2,91;2,43;Utilidade Pública;Energia Elétrica
+CESP3;22,81;214.805,68;3,58;1,00;11,38%;0,20;5,28;3,55;Utilidade Pública;Energia Elétrica
+CESP5;33,50;4.925,00;5,25;1,47;10,05%;0,20;5,28;3,55;Utilidade Pública;Energia Elétrica
+CESP6;23,14;52.589.881,68;3,63;1,01;11,22%;0,20;5,28;3,55;Utilidade Pública;Energia Elétrica
+CGAS3;170,00;81.643,00;11,11;10,60;5,00%;2,30;8,68;10,32;Utilidade Pública;Gás
+CGAS5;174,11;432.838,56;11,38;10,86;5,37%;2,30;8,68;10,32;Utilidade Pública;Gás
+CGRA3;43,49;70.548,17;7,02;1,11;4,37%;-0,11;3,52;6,45;Consumo Cíclico;Comércio
+CGRA4;41,50;773.097,28;6,70;1,06;4,58%;-0,11;3,52;6,45;Consumo Cíclico;Comércio
+CIEL3;2,25;78.269.710,12;-130,28;0,62;6,41%;-0,39;-0,18;0,58;Financeiro e Outros;Serviços Financeiros Diversos
+CLSC3;67,49;36.592,50;2,87;1,06;4,69%;0,44;13,45;5,21;Utilidade Pública;Energia Elétrica
+CLSC4;76,59;611.769,04;3,25;1,20;4,55%;0,44;13,45;5,21;Utilidade Pública;Energia Elétrica
+CMIG3;17,92;5.802.467,96;8,20;1,50;5,01%;0,40;1,89;2,14;Utilidade Pública;Energia Elétrica
+CMIG4;13,75;106.965.213,52;6,29;1,15;6,53%;0,40;1,89;2,14;Utilidade Pública;Energia Elétrica
+CMSA3;0,00;-;0,00;0,00;-%;-0,95;0,00;-0,01;Financeiro e Outros;Outros
+CMSA4;0,00;-;0,00;0,00;-%;-0,95;0,00;-0,01;Financeiro e Outros;Outros
+CNSY3;30,22;-;-22,23;-30,50;-%;-;-1,44;0,09;Consumo Cíclico;Mídia
+CNTO3;28,08;47.536.129,38;27,93;2,86;-%;0,81;-0,47;1,28;Consumo Cíclico;Comércio
+COCE3;60,00;6.000,00;9,99;1,34;6,03%;0,86;3,41;5,20;Utilidade Pública;Energia Elétrica
+COCE5;57,14;908.428,56;9,51;1,28;6,33%;0,86;3,41;5,20;Utilidade Pública;Energia Elétrica
+COCE6;19,17;-;3,19;0,43;18,87%;0,86;3,41;5,20;Utilidade Pública;Energia Elétrica
+COGN3;2,49;104.813.651,56;-1,02;0,37;-%;0,48;-3,09;0,14;Consumo Cíclico;Diversos
+CORR3;2,71;-;-0,01;-0,26;-%;-;223,90;-75,11;Financeiro e Outros;Exploração de Imóveis
+CORR4;82,00;-;-0,33;-7,91;7,50%;-;223,90;-75,11;Financeiro e Outros;Exploração de Imóveis
+CPFE3;27,21;159.008.025,92;7,09;2,12;11,04%;0,99;3,16;2,66;Utilidade Pública;Energia Elétrica
+CPLE3;5,75;9.540.422,04;2,78;0,73;23,91%;0,26;14,27;7,27;Utilidade Pública;Energia Elétrica
+CPLE5;30,01;12.568,67;14,50;3,81;5,25%;0,26;14,27;7,27;Utilidade Pública;Energia Elétrica
+CPLE6;6,24;128.640.310,48;3,02;0,79;24,24%;0,26;14,27;7,27;Utilidade Pública;Energia Elétrica
+CPRE3;18,23;-;8,07;1,77;-%;0,14;1,33;0,19;Utilidade Pública;Energia Elétrica
+CRDE3;16,97;55.674,38;-2,30;0,40;-%;-0,15;-6,38;-3,86;Consumo Cíclico;Construção Civil
+CREM3;14,50;-;32,70;2,45;-%;1,01;0,44;0,44;Saúde;Comércio e Distribuição
+CRFB3;14,85;78.554.393,68;9,63;1,74;6,11%;0,57;1,35;0,51;Consumo não Cíclico;Comércio e Distribuição
+CRIV3;4,90;4.380,73;7,19;0,49;-%;-;0,53;0,70;Financeiro e Outros;Intermediários Financeiros
+CRIV4;5,32;32.777,75;7,80;0,54;8,53%;-;0,53;0,70;Financeiro e Outros;Intermediários Financeiros
+CRPG3;94,69;9.469,00;9,52;3,16;5,20%;-0,25;6,36;4,73;Materiais Básicos;Químicos
+CRPG5;68,29;2.585.444,80;6,87;2,28;7,21%;-0,25;6,36;4,73;Materiais Básicos;Químicos
+CRPG6;68,50;62.539,92;6,89;2,28;7,19%;-0,25;6,36;4,73;Materiais Básicos;Químicos
+CSAB3;65,00;13.000,00;15,05;2,76;2,86%;-;6,65;2,18;Financeiro e Outros;Previdência e Seguros
+CSAB4;42,98;11.245,33;9,95;1,82;4,76%;-;6,65;2,18;Financeiro e Outros;Previdência e Seguros
+CSAN3;21,97;160.627.941,28;7,53;2,91;1,17%;2,22;2,16;6,08;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+CSMG3;13,26;31.986.769,28;6,80;0,76;7,12%;0,38;2,15;5,95;Utilidade Pública;Água e Saneamento
+CSNA3;24,41;335.855.932,52;2,25;1,68;7,87%;0,56;2,73;1,29;Materiais Básicos;Siderurgia e Metalurgia
+CSRN3;16,00;27.802,00;5,53;1,81;13,61%;1,08;2,03;1,63;Utilidade Pública;Energia Elétrica
+CSRN5;15,83;11.799,50;5,47;1,79;15,14%;1,08;2,03;1,63;Utilidade Pública;Energia Elétrica
+CSRN6;17,17;4.162,50;5,93;1,95;13,95%;1,08;2,03;1,63;Utilidade Pública;Energia Elétrica
+CTCA3;0,00;-;0,00;0,00;-%;-0,36;135,18;58,19;Consumo não Cíclico;Agropecuária
+CTKA3;26,70;5.890,17;3,13;-1,13;-%;-;12,97;-2,00;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CTKA4;19,00;51.545,45;2,22;-0,80;-%;-;12,97;-2,00;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CTNM3;9,10;3.380,00;-4,76;0,35;-%;1,48;-6,84;-1,83;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CTNM4;3,64;56.893,96;-1,90;0,14;-%;1,48;-6,84;-1,83;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CTSA3;1,95;33.122,40;11,31;0,68;-%;0,60;-0,03;0,27;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CTSA4;1,41;34.613,88;8,18;0,49;-%;0,60;-0,03;0,27;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CTSA8;0,00;-;0,00;0,00;-%;0,60;-0,03;0,27;Consumo Cíclico;Tecidos. Vestuário e Calçados
+CURY3;6,90;5.496.536,56;19,49;3,31;8,19%;-0,27;0,55;-;Consumo Cíclico;Construção Civil
+CVCB3;14,69;167.787.353,48;55,22;6,36;-%;0,43;-6,92;0,30;Consumo Cíclico;Viagens e Lazer
+CYRE3;15,19;120.148.769,20;6,34;0,98;17,43%;0,19;4,40;1,04;Consumo Cíclico;Construção Civil
+DASA3;35,50;8.106.940,96;-536,95;2,62;0,80%;0,43;-0,31;0,40;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+DIRR3;11,87;18.922.739,24;11,45;1,47;5,81%;0,25;0,74;0,66;Consumo Cíclico;Construção Civil
+DMMO3;0,61;3.423.739,00;1,40;-0,27;-%;-;-1,07;-0,47;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+DMVF3;5,08;484.316,20;32,37;0,31;-%;-0,07;0,00;-;Saúde;Comércio e Distribuição
+DOHL3;17,51;4.806,50;9,75;1,89;1,06%;0,00;1,11;0,53;Consumo Cíclico;Tecidos. Vestuário e Calçados
+DOHL4;6,11;39.188,24;3,40;0,66;3,35%;0,00;1,11;0,53;Consumo Cíclico;Tecidos. Vestuário e Calçados
+DTCY3;7,40;8.532,92;-18,63;52,94;-%;-0,27;0,03;-1,39;Bens Industriais;Serviços
+DTCY4;62,60;-;-157,61;447,82;-%;-0,27;0,03;-1,39;Bens Industriais;Serviços
+DTEX3;20,63;53.730.506,85;8,79;2,11;4,08%;0,28;0,66;0,59;Materiais Básicos;Madeira e Papel
+EALT3;11,80;7.392,69;9,00;1,37;2,36%;0,47;1,12;0,75;Bens Industriais;Máquinas e Equipamentos
+EALT4;5,99;140.480,80;4,57;0,69;5,11%;0,47;1,12;0,75;Bens Industriais;Máquinas e Equipamentos
+ECOR3;8,81;58.253.878,28;-22,54;2,91;-%;3,56;-0,76;-0,33;Bens Industriais;Transporte
+ECPR3;79,89;15.978,00;-23,40;1,06;-%;0,00;-29,13;-9,31;Consumo Cíclico;Tecidos. Vestuário e Calçados
+ECPR4;85,80;43.866,67;-25,13;1,14;-%;0,00;-29,13;-9,31;Consumo Cíclico;Tecidos. Vestuário e Calçados
+EEEL3;375,00;36.500,00;8,24;1,90;10,09%;0,05;28,87;40,41;Utilidade Pública;Energia Elétrica
+EEEL4;350,00;35.000,00;7,69;1,77;14,72%;0,05;28,87;40,41;Utilidade Pública;Energia Elétrica
+EGIE3;39,31;53.971.454,88;12,75;4,07;6,64%;1,85;3,43;2,83;Utilidade Pública;Energia Elétrica
+EKTR3;36,08;3.608,00;9,18;2,41;8,93%;1,25;3,06;2,55;Utilidade Pública;Energia Elétrica
+EKTR4;24,80;81.304,15;6,31;1,66;14,28%;1,25;3,06;2,55;Utilidade Pública;Energia Elétrica
+ELEK3;19,11;-;24,46;2,66;-%;0,70;0,78;1,87;Materiais Básicos;Químicos
+ELEK4;36,99;-;47,34;5,15;-%;0,70;0,78;1,87;Materiais Básicos;Químicos
+ELET3;35,14;148.887.366,20;8,58;0,72;6,83%;0,33;4,04;7,91;Utilidade Pública;Energia Elétrica
+ELET5;65,00;6.500,00;15,88;1,34;4,82%;0,33;4,04;7,91;Utilidade Pública;Energia Elétrica
+ELET6;34,55;79.582.409,40;8,44;0,71;7,64%;0,33;4,04;7,91;Utilidade Pública;Energia Elétrica
+ELPL3;8,31;-;1,15;0,48;-%;1,57;4,97;3,88;Utilidade Pública;Energia Elétrica
+EMAE3;25,35;-;3,77;1,16;32,77%;-0,37;5,37;2,51;Utilidade Pública;Energia Elétrica
+EMAE4;55,38;404.114,44;8,24;2,54;16,50%;-0,37;5,37;2,51;Utilidade Pública;Energia Elétrica
+EMBR3;20,30;197.898.972,72;-51,22;1,02;-%;0,69;-4,88;-1,78;Bens Industriais;Material de Transporte
+ENAT3;14,56;21.157.770,44;6,11;1,12;1,33%;-0,43;-;0,81;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+ENBR3;21,26;78.087.220,04;6,02;1,12;4,70%;0,74;2,49;2,20;Utilidade Pública;Energia Elétrica
+ENEV3;14,67;76.782.474,92;13,56;2,17;-%;0,67;3,19;1,91;Utilidade Pública;Energia Elétrica
+ENGI11;45,62;100 %;6,80;1,89;3,84%;1,90;4,05;1,25;Utilidade Pública;Energia Elétrica
+ENGI3;16,48;119.552,20;12,28;3,42;2,12%;1,90;0,81;0,25;Utilidade Pública;Energia Elétrica
+ENGI4;7,25;162.578,52;5,40;1,50;4,83%;1,90;0,81;0,25;Utilidade Pública;Energia Elétrica
+ENJU3;3,27;8.616.439,80;-6,23;1,43;-%;-0,93;-0,16;-;Tecnologia da Informação;Programas e Serviços
+ENMA3B;50,49;-;9,81;2,66;9,15%;0,37;4,27;4,68;Utilidade Pública;Energia Elétrica
+ENMA6B;83,99;-;16,33;4,42;5,50%;0,37;4,27;4,68;Utilidade Pública;Energia Elétrica
+ENMT3;79,67;86.083,40;15,12;6,26;6,89%;1,40;3,10;2,79;Utilidade Pública;Energia Elétrica
+ENMT4;80,30;35.595,75;15,24;6,31;6,12%;1,40;3,10;2,79;Utilidade Pública;Energia Elétrica
+EQPA3;5,03;30.774,40;11,82;3,08;12,13%;0,58;0,33;0,21;Utilidade Pública;Energia Elétrica
+EQPA5;6,92;27.271,00;16,27;4,24;8,82%;0,58;0,33;0,21;Utilidade Pública;Energia Elétrica
+EQPA6;10,48;-;24,63;6,42;5,82%;0,58;0,33;0,21;Utilidade Pública;Energia Elétrica
+EQPA7;6,84;3.500,00;16,08;4,19;8,92%;0,58;0,33;0,21;Utilidade Pública;Energia Elétrica
+EQTL3;23,35;170.541.918,36;6,42;1,98;3,08%;1,03;2,94;11,97;Utilidade Pública;Energia Elétrica
+ESTR3;17,80;-;-0,74;-0,03;-%;-;-19,42;-50,56;Consumo Cíclico;Viagens e Lazer
+ESTR4;67,18;13.062,40;-2,81;-0,11;-%;-;-19,42;-50,56;Consumo Cíclico;Viagens e Lazer
+ETER3;17,34;24.934.623,72;3,18;1,98;-%;-0,41;3,07;-0,42;Bens Industriais;Construção e Engenharia
+EUCA3;13,49;67.783,44;3,89;0,70;2,76%;0,21;1,56;0,71;Materiais Básicos;Madeira e Papel
+EUCA4;9,30;694.784,72;2,68;0,48;4,40%;0,21;1,56;0,71;Materiais Básicos;Madeira e Papel
+EVEN3;6,30;14.684.829,56;13,33;0,75;12,02%;-0,43;0,07;0,55;Consumo Cíclico;Construção Civil
+EZTC3;19,56;51.839.326,32;8,93;1,01;2,17%;-0,23;1,79;1,41;Consumo Cíclico;Construção Civil
+FBMC3;0,00;-;0,00;0,00;-%;-;-21,16;-21,16;Materiais Básicos;Siderurgia e Metalurgia
+FBMC4;1,96;-;-0,09;-0,02;-%;-;-21,16;-21,16;Materiais Básicos;Siderurgia e Metalurgia
+FESA3;50,00;23.042,00;9,95;2,02;1,93%;-0,03;0,79;2,50;Materiais Básicos;Siderurgia e Metalurgia
+FESA4;49,40;26.484.628,64;9,83;2,00;2,15%;-0,03;0,79;2,50;Materiais Básicos;Siderurgia e Metalurgia
+FHER3;21,21;47.603.758,84;4,02;12,63;-%;5,48;-3,70;12,13;Materiais Básicos;Químicos
+FIGE3;0,00;-;0,00;0,00;-%;-;1,44;3,28;Financeiro e Outros;Outros
+FIGE4;0,00;-;0,00;0,00;-%;-;1,44;3,28;Financeiro e Outros;Outros
+FLEX3;0,00;-;0,00;0,00;-%;9,88;-7,27;-5,86;Bens Industriais;Serviços
+FLRY3;18,80;40.902.303,04;14,28;3,29;4,59%;1,14;0,81;0,99;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+FNCN3;15,22;2.533,00;-9,18;1,39;-%;-;-2,29;-0,69;Financeiro e Outros;Intermediários Financeiros
+FRAS3;13,06;2.338.782,64;8,95;2,59;2,82%;0,57;0,87;0,40;Bens Industriais;Material de Transporte
+FRIO3;50,59;8.887,00;-11,97;-1,84;-%;-;-37,05;5,31;Bens Industriais;Máquinas e Equipamentos
+FRTA3;5,65;15.854,29;-1,05;-0,18;-%;-;1,08;0,30;Consumo não Cíclico;Agropecuária
+FTRT3B;0,00;-;0,00;0,00;-%;0,00;0,00;0,00;Financeiro e Outros;Outros
+GBIO33;10,40;-;-14,97;1,32;-%;0,25;-0,69;0,02;Saúde;Comércio e Distribuição
+GEPA3;32,00;11.833,33;6,24;1,58;10,94%;0,60;7,43;2,61;Utilidade Pública;Energia Elétrica
+GEPA4;31,70;21.542,75;6,18;1,57;11,04%;0,60;7,43;2,61;Utilidade Pública;Energia Elétrica
+GFSA3;2,18;17.901.549,56;12,01;0,42;-%;0,42;-0,25;-0,11;Consumo Cíclico;Construção Civil
+GGBR3;23,32;1.815.813,44;3,09;0,98;13,89%;0,21;1,38;0,70;Materiais Básicos;Siderurgia e Metalurgia
+GGBR4;28,95;353.629.376,64;3,83;1,21;11,19%;0,21;1,38;0,70;Materiais Básicos;Siderurgia e Metalurgia
+GMAT3;6,29;31.359.807,52;18,55;2,24;-%;0,06;0,33;-;Consumo não Cíclico;Comércio e Distribuição
+GNDI3;63,40;256.700.241,80;-3.367,26;5,48;0,45%;0,27;1,21;0,80;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+GOAU3;10,56;2.574.179,32;2,81;0,76;22,82%;0,47;0,80;0,43;Materiais Básicos;Siderurgia e Metalurgia
+GOAU4;11,89;138.712.190,92;3,16;0,86;20,27%;0,47;0,80;0,43;Materiais Básicos;Siderurgia e Metalurgia
+GOLL4;17,11;133.053.566,80;-12,37;-2,97;-%;-;-1,91;-0,04;Bens Industriais;Transporte
+GPAR3;43,00;4.300,00;21,43;2,18;1,18%;-0,07;2,14;2,19;Utilidade Pública;Energia Elétrica
+GPCP3;49,00;15.283.768,88;4,62;1,99;2,90%;0,33;3,80;3,98;Materiais Básicos;Químicos
+GPCP4;45,51;221.227,00;3,88;1,67;3,67%;0,33;3,80;3,98;Materiais Básicos;Químicos
+GPIV33;6,48;404.182,64;0,39;0,15;-%;-0,52;-5,20;2,21;Financeiro e Outros;Serviços Financeiros Diversos
+GRND3;8,68;17.322.789,40;11,53;1,92;9,06%;-0,36;0,45;0,55;Consumo Cíclico;Tecidos. Vestuário e Calçados
+GSHP3;36,70;43.748,77;-1,11;-0,11;-%;-;-245,20;-0,49;Financeiro e Outros;Exploração de Imóveis
+GUAR3;10,77;11.261.240,68;10,41;1,04;0,56%;0,32;-0,05;1,19;Consumo Cíclico;Comércio
+HAGA3;5,50;107.074,00;6,52;-0,99;-%;-;0,47;0,21;Bens Industriais;Construção e Engenharia
+HAGA4;2,04;125.627,48;2,42;-0,37;-%;-;0,47;0,21;Bens Industriais;Construção e Engenharia
+HAPV3;11,18;213.832.226,08;111,73;4,10;0,51%;-0,04;0,21;1,26;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+HBOR3;4,58;6.957.401,00;5,78;0,46;1,04%;0,66;0,20;-;Consumo Cíclico;Construção Civil
+HBRE3;9,20;169.020,21;-17,12;0,54;-%;0,26;-;-;Financeiro e Outros;Exploração de Imóveis
+HBSA3;2,92;13.873.024,48;-19,31;1,56;-%;2,83;-0,14;0,08;Bens Industriais;Transporte
+HBTS5;49,85;24.566,77;1,98;0,87;0,32%;0,11;0,16;-1,72;Financeiro e Outros;Exploração de Imóveis
+HETA3;96,00;42.600,00;-0,28;-0,09;-%;-;-337,35;6,74;Consumo Cíclico;Utilidades Domésticas
+HETA4;10,38;187.878,50;-0,03;-0,01;-%;-;-337,35;6,74;Consumo Cíclico;Utilidades Domésticas
+HGTX3;37,50;109.503.605,67;101,99;3,57;0,87%;0,03;2,11;1,32;Consumo Cíclico;Tecidos. Vestuário e Calçados
+HOOT3;0,00;-;0,00;0,00;-%;-;-4,94;-7,44;Consumo Cíclico;Hoteis e Restaurantes
+HOOT4;2,83;32.248,72;-1,34;-0,11;-%;-;-4,94;-7,44;Consumo Cíclico;Hoteis e Restaurantes
+HYPE3;28,71;91.886.058,28;14,07;1,88;4,24%;0,44;2,04;-;Saúde;Comércio e Distribuição
+IDVL3;2,16;289.164,47;-0,99;0,93;-%;-;-2,18;-1,17;Financeiro e Outros;Intermediários Financeiros
+IDVL4;2,67;89.696,16;-1,22;1,16;-%;-;-2,18;-1,17;Financeiro e Outros;Intermediários Financeiros
+IGBR3;33,90;3.166.143,68;-0,46;-0,04;-%;-;-6,78;-5,16;Financeiro e Outros;Exploração de Imóveis
+IGSN3;0,00;-;0,00;0,00;-%;1,41;-0,03;0,22;Utilidade Pública;Água e Saneamento
+IGTA3;33,00;70.275.318,31;17,05;1,71;0,86%;0,54;1,15;1,76;Financeiro e Outros;Exploração de Imóveis
+INEP3;1,54;2.214.307,44;-0,88;-0,10;-%;-;-59,49;-58,23;Bens Industriais;Máquinas e Equipamentos
+INEP4;1,54;1.589.483,16;-0,88;-0,10;-%;-;-59,49;-58,23;Bens Industriais;Máquinas e Equipamentos
+INNT3;0,00;-;0,00;0,00;-%;2,50;-0,46;0,92;Consumo Cíclico;Construção Civil
+IRBR3;4,23;64.828.710,68;-5,75;1,33;-%;-;-1,20;3,88;Financeiro e Outros;Previdência e Seguros
+ITEC3;40,10;-;-35,12;22,04;-%;-1,02;-1,14;-1,14;Tecnologia da Informação;Computadores e Equipamentos
+ITSA3;9,99;1.946.637,52;7,15;1,34;4,73%;0,07;0,84;1,23;Financeiro e Outros;Intermediários Financeiros
+ITSA4;9,88;285.270.922,12;7,08;1,33;4,78%;0,07;0,84;1,23;Financeiro e Outros;Intermediários Financeiros
+ITUB3;20,60;21.876.511,48;6,93;1,37;4,71%;-;1,93;2,77;Financeiro e Outros;Intermediários Financeiros
+ITUB4;22,96;932.323.370,00;7,72;1,53;4,23%;-;1,93;2,77;Financeiro e Outros;Intermediários Financeiros
+JBDU3;3,12;2.292.809,73;-6,94;1,03;-%;0,11;-1,29;-32,02;Financeiro e Outros;Holdings Diversificadas
+JBDU4;1,36;2.433.527,00;-2,68;0,40;-%;0,11;-1,29;-32,02;Financeiro e Outros;Holdings Diversificadas
+JBSS3;34,41;328.639.969,32;4,53;1,75;8,77%;1,29;1,75;2,22;Consumo não Cíclico;Alimentos Processados
+JFEN3;1,05;458.441,40;-0,62;-0,23;-%;-;-1,60;-3,56;Consumo Cíclico;Construção Civil
+JHSF3;5,31;23.701.174,48;3,96;0,82;7,42%;0,25;0,94;0,61;Consumo Cíclico;Construção Civil
+JOPA3;30,00;20.132,89;19,23;0,58;2,85%;0,79;3,01;1,01;Consumo não Cíclico;Alimentos Processados
+JOPA4;38,59;3.859,00;24,73;0,75;2,44%;0,79;3,01;1,01;Consumo não Cíclico;Alimentos Processados
+JPSA3;29,37;8.967.958,41;20,14;1,92;0,39%;1,10;0,87;1,46;Financeiro e Outros;Exploração de Imóveis
+JSLG3;7,61;6.520.728,84;8,82;1,62;1,77%;1,98;0,65;1,10;Bens Industriais;Transporte
+KEPL3;33,00;7.961.569,36;11,02;1,46;5,07%;-0,55;2,57;1,43;Bens Industriais;Máquinas e Equipamentos
+KLBN11;25,05;100 %;8,49;5,21;1,46%;3,70;-2,21;0,62;Materiais Básicos;Madeira e Papel
+KLBN3;6,17;619.108,28;10,46;6,42;1,19%;3,70;-0,44;0,12;Materiais Básicos;Madeira e Papel
+KLBN4;4,72;2.378.807,72;8,00;4,91;1,55%;3,70;-0,44;0,12;Materiais Básicos;Madeira e Papel
+LAME3;5,41;28.199.625,44;17,34;1,56;3,97%;1,01;0,21;0,44;Consumo Cíclico;Comércio
+LAME4;5,42;173.358.782,92;17,37;1,57;3,96%;1,01;0,21;0,44;Consumo Cíclico;Comércio
+LAVV3;5,07;6.167.422,84;5,11;0,77;13,41%;-0,44;0,44;-;Consumo Cíclico;Construção Civil
+LCAM3;23,79;66.597.552,64;17,19;2,54;1,59%;1,31;0,76;2,27;Consumo Cíclico;Diversos
+LEVE3;31,20;15.700.874,00;7,46;2,33;2,98%;-0,03;0,97;2,02;Consumo Cíclico;Automóveis e Motocicletas
+LHER3;0,00;-;0,00;0,00;-%;-0,15;2,76;2,76;Financeiro e Outros;Exploração de Imóveis
+LHER4;0,00;-;0,00;0,00;-%;-0,15;2,76;2,76;Financeiro e Outros;Exploração de Imóveis
+LIGT3;12,26;38.827.595,24;6,02;0,52;3,60%;0,82;2,28;4,10;Utilidade Pública;Energia Elétrica
+LINX3;37,40;105.252.650,44;-90,95;4,38;1,51%;-0,14;-0,42;0,23;Tecnologia da Informação;Programas e Serviços
+LIPR3;69,80;27.627,00;32,08;3,97;2,90%;-0,39;3,85;-0,20;Utilidade Pública;Energia Elétrica
+LJQQ3;10,57;25.884.934,04;25,38;3,73;0,81%;-0,28;0,36;-;Consumo Cíclico;Comércio
+LLIS3;1,35;1.483.344,84;-0,05;0,70;-%;12,24;-29,12;-3,74;Consumo Cíclico;Comércio
+LOGG3;23,29;14.741.200,56;7,52;0,72;1,40%;0,30;1,37;1,22;Financeiro e Outros;Exploração de Imóveis
+LOGN3;21,85;13.021.174,36;11,02;5,28;-%;1,84;0,12;0,48;Bens Industriais;Transporte
+LPSB3;2,44;3.324.019,72;6,48;1,64;-%;-0,59;-0,03;-0,03;Financeiro e Outros;Exploração de Imóveis
+LREN3;29,46;345.157.964,68;51,28;3,07;1,41%;-0,25;1,38;1,39;Consumo Cíclico;Comércio
+LTEL3B;86,61;-;12,34;5,32;5,02%;-0,18;1,71;1,10;Materiais Básicos;Mineração
+LUPA3;6,09;21.336.461,28;1,83;1,33;-%;0,92;0,78;-1,58;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+LUXM3;0,00;-;0,00;0,00;-%;-0,09;1,62;2,50;Bens Industriais;Transporte
+LUXM4;81,03;64.863,19;27,64;4,12;1,98%;-0,09;1,62;2,50;Bens Industriais;Transporte
+LWSA3;13,82;172.842.439,20;19.308,10;2,76;0,23%;-0,57;0,16;-;Tecnologia da Informação;Programas e Serviços
+MAPT3;37,00;14.800,00;-197,67;-5,76;-%;-;-0,19;-0,18;Financeiro e Outros;Outros
+MAPT4;37,95;7.590,00;-202,74;-5,91;-%;-;-0,19;-0,18;Financeiro e Outros;Outros
+MDIA3;28,07;40.680.236,96;16,90;1,38;2,16%;0,00;2,25;1,64;Consumo não Cíclico;Alimentos Processados
+MDNE3;5,17;1.651.018,96;5,77;0,41;-%;-0,05;-1,18;-0,24;Consumo Cíclico;Construção Civil
+MEAL3;2,77;7.305.137,40;-10,13;0,69;-%;0,15;-1,65;-0,10;Consumo Cíclico;Hoteis e Restaurantes
+MELK3;4,18;3.006.839,00;16,20;0,74;5,12%;-0,43;0,20;-;Consumo Cíclico;Construção Civil
+MERC3;25,00;5.030,00;160,17;1,82;-%;-;0,49;1,00;Financeiro e Outros;Intermediários Financeiros
+MERC4;10,58;6.561,40;67,79;0,77;4,89%;-;0,49;1,00;Financeiro e Outros;Intermediários Financeiros
+MGEL3;19,13;-;0,53;-0,41;-%;-;-5,36;-0,38;Materiais Básicos;Siderurgia e Metalurgia
+MGEL4;13,41;35.409,52;0,37;-0,29;-%;-;-5,36;-0,38;Materiais Básicos;Siderurgia e Metalurgia
+MGLU3;7,62;808.287.666,92;70,91;4,68;0,55%;0,02;0,06;0,57;Consumo Cíclico;Comércio
+MILS3;6,13;7.866.062,68;23,27;1,42;3,06%;-0,10;-0,02;-0,18;Bens Industriais;Serviços
+MMAQ3;0,00;-;0,00;0,00;-%;-0,16;446,27;403,37;Bens Industriais;Comércio
+MMAQ4;49,73;-;0,06;0,01;437,39%;-0,16;446,27;403,37;Bens Industriais;Comércio
+MMXM3;14,00;6.294.058,38;-2,17;-0,11;-%;-;-12,46;-18,56;Materiais Básicos;Mineração
+MNDL3;35,46;184.420,96;2,25;-0,76;-%;-;-3,61;-4,18;Consumo Cíclico;Tecidos. Vestuário e Calçados
+MNPR3;7,08;110.954,36;5,84;-0,14;-%;-;2,33;-4,65;Consumo não Cíclico;Alimentos Processados
+MOAR3;431,00;1.677.277,21;8,53;3,99;9,03%;-0,11;-0,76;8,17;Financeiro e Outros;Holdings Diversificadas
+MOVI3;17,78;38.932.910,24;8,87;2,03;2,22%;1,80;0,36;0,86;Consumo Cíclico;Diversos
+MRFG3;21,25;171.238.805,04;3,02;3,02;7,55%;2,95;4,64;0,35;Consumo não Cíclico;Alimentos Processados
+MRSA3B;38,70;5.505,00;15,30;2,66;0,74%;0,39;1,27;1,48;Bens Industriais;Transporte
+MRSA5B;45,43;9.086,00;17,96;3,12;0,70%;0,39;1,27;1,48;Bens Industriais;Transporte
+MRSA6B;35,00;-;13,83;2,41;0,90%;0,39;1,27;1,48;Bens Industriais;Transporte
+MRVE3;11,57;65.103.834,00;7,97;0,93;5,53%;0,62;1,14;1,55;Consumo Cíclico;Construção Civil
+MSPA3;48,50;19.400,00;-9,34;0,39;-%;0,07;-8,56;-5,71;Consumo Cíclico;Mídia
+MSPA4;46,00;18.400,00;-8,85;0,37;-%;0,07;-8,56;-5,71;Consumo Cíclico;Mídia
+MSRO3;702,50;-;2.759,27;319,27;-%;2,71;0,04;0,53;Consumo Cíclico;Diversos
+MTIG3;0,00;-;0,00;0,00;-%;-;-64,96;56,82;Materiais Básicos;Embalagens
+MTIG4;44,20;93.465,11;-2,61;-0,29;-%;-;-64,96;56,82;Materiais Básicos;Embalagens
+MTRE3;7,00;5.068.036,12;20,96;0,75;8,07%;-0,28;0,46;-;Consumo Cíclico;Construção Civil
+MTSA3;64,20;9.450,00;11,20;1,89;3,20%;-0,02;6,26;1,97;Bens Industriais;Máquinas e Equipamentos
+MTSA4;41,29;128.507,48;7,20;1,22;5,47%;-0,02;6,26;1,97;Bens Industriais;Máquinas e Equipamentos
+MULT3;20,07;168.521.586,32;31,21;1,87;2,27%;0,31;1,60;0,78;Financeiro e Outros;Exploração de Imóveis
+MWET3;22,50;8.383,60;0,27;-0,96;-%;-;12,09;-;Bens Industriais;Material de Transporte
+MWET4;16,98;37.268,74;0,20;-0,73;-%;-;12,09;-;Bens Industriais;Material de Transporte
+MYPK3;15,37;25.695.993,00;7,53;0,58;-%;1,13;-3,20;2,22;Consumo Cíclico;Automóveis e Motocicletas
+NAFG3;64,37;-;11,80;2,76;-%;0,48;5,46;5,46;Consumo Cíclico;Utilidades Domésticas
+NAFG4;19,02;-;3,49;0,82;-%;0,48;5,46;5,46;Consumo Cíclico;Utilidades Domésticas
+NEMO3;0,00;-;0,00;0,00;-%;15,65;-16,99;-4,45;Materiais Básicos;Madeira e Papel
+NEMO5;52,97;-;2,75;2,45;-%;15,65;-16,99;-4,45;Materiais Básicos;Madeira e Papel
+NEMO6;0,00;-;0,00;0,00;-%;15,65;-16,99;-4,45;Materiais Básicos;Madeira e Papel
+NEOE3;17,81;40.896.246,56;5,05;0,91;2,95%;1,25;2,31;1,84;Utilidade Pública;Energia Elétrica
+NGRD3;2,93;6.923.074,48;33,80;1,48;0,42%;-0,48;0,05;-;Tecnologia da Informação;Programas e Serviços
+NORD3;13,18;7.366,86;-87,80;-0,62;-%;-;-0,10;-0,05;Bens Industriais;Máquinas e Equipamentos
+NRTQ3;0,00;-;0,00;0,00;-%;-0,02;2,48;1,33;Saúde;Medicamentos e Outros Produtos
+NTCO3;27,06;440.136.194,24;70,44;1,34;-%;0,26;-0,47;0,57;Consumo não Cíclico;Produtos de Uso Pessoal e de Limpeza
+NUTR3;253,00;25.300,00;7,60;1,58;-%;0,50;26,82;269,31;Materiais Básicos;Químicos
+ODER4;187,62;37.500,00;14,79;5,97;0,24%;0,37;10,52;1,83;Consumo não Cíclico;Alimentos Processados
+ODPV3;12,20;19.608.491,36;17,20;5,74;3,87%;-0,30;0,68;0,54;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+OFSA3;25,11;456.479,56;12,56;2,13;1,69%;0,22;1,66;0,86;Saúde;Comércio e Distribuição
+OGXP3;1,63;-;-2,15;-0,98;-%;-;-0,76;-351,89;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+OIBR3;0,86;73.040.322,56;-1,05;5,34;-%;26,49;-1,77;-1,51;Comunicações;Telecomunicações
+OIBR4;1,37;1.323.807,00;-1,68;8,51;-%;26,49;-1,77;-1,51;Comunicações;Telecomunicações
+OMGE3;27,90;47.378.335,64;-32,37;1,60;-%;1,49;0,25;0,20;Utilidade Pública;Energia Elétrica
+OSXB3;9,28;454.257,96;-0,07;-0,01;-%;-;-276,44;-180,29;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+PARD3;20,87;8.505.098,08;12,61;3,18;1,67%;0,08;0,97;1,21;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+PATI3;69,88;40.960,75;5,05;1,90;3,39%;0,30;9,99;0,98;Materiais Básicos;Siderurgia e Metalurgia
+PATI4;59,00;21.800,67;4,26;1,61;4,02%;0,30;9,99;0,98;Materiais Básicos;Siderurgia e Metalurgia
+PCAR3;22,53;65.567.105,56;3,76;0,46;9,66%;0,40;8,12;2,96;Consumo não Cíclico;Comércio e Distribuição
+PCAR4;72,11;-;12,03;1,47;-%;0,40;8,12;2,96;Consumo não Cíclico;Comércio e Distribuição
+PDGR3;1,49;2.297.624,76;-0,21;-0,02;-%;-;-56,36;-111,57;Consumo Cíclico;Construção Civil
+PDTC3;5,30;1.126.150,08;11,83;3,20;-%;0,05;0,22;0,33;Financeiro e Outros;Serviços Financeiros Diversos
+PEAB3;79,50;21.918,50;3,76;1,25;14,21%;-0,55;36,15;3,55;Financeiro e Outros;Holdings Diversificadas
+PEAB4;70,00;33.146,55;3,31;1,10;17,75%;-0,55;36,15;3,55;Financeiro e Outros;Holdings Diversificadas
+PETR3;31,19;652.640.459,64;3,01;1,10;18,13%;0,71;0,54;3,08;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+PETR4;29,36;2.508.793.774,28;2,84;1,04;19,25%;0,71;0,54;3,08;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+PETZ3;19,72;130.463.843,08;118,98;14,66;0,27%;0,23;0,16;-;Consumo Cíclico;Comércio
+PFRM3;5,16;1.171.920,20;6,74;0,58;5,24%;0,40;0,42;0,10;Saúde;Comércio e Distribuição
+PGMN3;8,42;10.113.263,28;20,65;1,80;-%;0,22;0,22;-0,02;Saúde;Comércio e Distribuição
+PINE3;0,00;-;0,00;0,00;-%;-;-0,48;-0,95;Financeiro e Outros;Intermediários Financeiros
+PINE4;1,78;306.098,12;-5,40;0,34;-%;-;-0,48;-0,95;Financeiro e Outros;Intermediários Financeiros
+PLAS3;11,00;5.787,06;-1,20;-0,48;-%;-;-9,42;-0,55;Consumo Cíclico;Automóveis e Motocicletas
+PLPL3;3,30;3.322.609,00;6,25;2,05;5,93%;0,30;0,65;-;Consumo Cíclico;Construção Civil
+PMAM3;9,62;4.195.745,76;-0,90;-0,53;-%;-;-19,85;5,45;Materiais Básicos;Siderurgia e Metalurgia
+PNVL3;13,18;11.122.746,00;25,12;1,93;1,16%;0,47;0,37;17,00;Saúde;Comércio e Distribuição
+PNVL4;18,62;83.188,67;35,48;2,72;0,88%;0,47;0,37;17,00;Saúde;Comércio e Distribuição
+POMO3;2,34;863.436,76;5,07;0,78;3,85%;0,41;0,11;0,21;Bens Industriais;Material de Transporte
+POMO4;2,74;11.760.645,72;5,94;0,91;3,28%;0,41;0,11;0,21;Bens Industriais;Material de Transporte
+POSI3;10,15;38.073.040,92;4,69;1,21;3,36%;0,29;1,35;0,19;Tecnologia da Informação;Computadores e Equipamentos
+PPAR3;14,60;-;-33,76;0,02;-%;-0,05;-1,28;6,15;Financeiro e Outros;Outros
+PPLA11;6,45;5.063,67;-864,50;-;-%;-;-0,01;-0,04;Financeiro e Outros;Serviços Financeiros Diversos
+PRIO3;21,93;505.922.482,36;17,99;3,39;-%;-0,09;3,13;4,53;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+PRNR3;7,17;865.883,16;11,25;1,21;-%;-0,10;-0,06;-0,06;Bens Industriais;Serviços
+PSSA3;22,15;52.230.366,04;10,10;1,58;11,79%;-0,93;5,22;4,27;Financeiro e Outros;Previdência e Seguros
+PTBL3;9,45;12.352.339,84;7,11;3,73;11,94%;1,31;0,81;0,08;Bens Industriais;Construção e Engenharia
+PTCA11;0,00;-;0,00;0,00;-%;0,40;1,31;2,15;Bens Industriais;Máquinas e Equipamentos
+PTCA3;0,00;-;0,00;0,00;-%;0,40;1,31;2,15;Bens Industriais;Máquinas e Equipamentos
+PTNT3;20,36;256.061,04;19,72;2,86;1,00%;0,32;1,11;-0,05;Consumo Cíclico;Tecidos. Vestuário e Calçados
+PTNT4;6,14;165.083,08;5,95;0,86;3,30%;0,32;1,11;-0,05;Consumo Cíclico;Tecidos. Vestuário e Calçados
+QUAL3;16,59;39.314.400,12;12,38;2,82;13,21%;0,61;1,38;1,39;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+QUSW3;0,00;-;0,00;0,00;-%;0,12;11,69;2,55;Tecnologia da Informação;Programas e Serviços
+QVQP3B;0,00;-;0,00;0,00;-%;-0,94;0,00;0,00;Financeiro e Outros;Outros
+RADL3;23,28;183.165.640,44;51,74;8,09;1,08%;0,28;0,29;2,34;Saúde;Comércio e Distribuição
+RAIL3;17,29;239.253.598,32;59,77;2,11;-%;0,75;0,16;0,50;Bens Industriais;Transporte
+RANI3;7,16;10.483.354,56;7,18;1,93;4,94%;0,29;0,36;-0,48;Materiais Básicos;Madeira e Papel
+RANI4;5,50;644.391,25;5,52;1,48;-%;0,29;0,36;-0,48;Materiais Básicos;Madeira e Papel
+RAPT3;13,07;145.469,80;4,37;1,79;4,97%;0,85;1,92;0,85;Bens Industriais;Material de Transporte
+RAPT4;10,88;27.688.221,92;3,63;1,49;5,97%;0,85;1,92;0,85;Bens Industriais;Material de Transporte
+RCSL3;3,88;18.300.831,28;-454,71;-6,73;-%;-;-0,02;-0,05;Bens Industriais;Material de Transporte
+RCSL4;1,35;2.078.247,00;-158,21;-2,34;-%;-;-0,02;-0,05;Bens Industriais;Material de Transporte
+RDNI3;9,86;209.707,92;22,39;0,69;0,10%;0,77;0,03;0,04;Consumo Cíclico;Construção Civil
+RDOR3;49,20;130.112.392,20;68,33;6,92;2,77%;0,96;0,22;-;Saúde;Serv.Méd.Hospit..Análises e Diagnósticos
+REDE3;6,36;10.384,78;9,01;3,62;15,37%;2,06;0,43;0,35;Utilidade Pública;Energia Elétrica
+RENT3;53,89;379.145.245,48;20,40;5,48;0,74%;0,97;1,38;1,15;Consumo Cíclico;Diversos
+RLOG3;23,08;105.214.775,75;82,76;4,26;-%;5,71;0,28;0,46;Bens Industriais;Transporte
+RNEW11;7,19;100 %;2,27;-0,32;-%;-;1,61;-7,29;Utilidade Pública;Energia Elétrica
+RNEW3;2,43;208.329,36;2,30;-0,32;-%;-;0,54;-2,43;Utilidade Pública;Energia Elétrica
+RNEW4;2,35;435.411,84;2,22;-0,31;-%;-;0,54;-2,43;Utilidade Pública;Energia Elétrica
+ROMI3;16,35;9.940.324,92;5,09;1,30;9,97%;0,45;2,38;2,06;Bens Industriais;Máquinas e Equipamentos
+RPAD3;6,13;8.530,50;27,09;0,50;-%;-0,01;0,40;0,48;Financeiro e Outros;Intermediários Financeiros
+RPAD5;8,90;15.094,71;39,33;0,72;6,15%;-0,01;0,40;0,48;Financeiro e Outros;Intermediários Financeiros
+RPAD6;5,05;5.072,33;22,32;0,41;-%;-0,01;0,40;0,48;Financeiro e Outros;Intermediários Financeiros
+RPMG3;2,90;212.030,68;-0,80;-0,06;-%;-;-6,10;-3,38;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+RRRP3;31,41;115.582.066,24;-31,53;3,49;-%;-0,32;-2,37;-;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+RSID3;8,63;978.911,08;0,88;-0,26;-%;-;0,87;-18,14;Consumo Cíclico;Construção Civil
+RSUL3;0,00;-;0,00;0,00;-%;0,00;-9,79;29,68;Bens Industriais;Material de Transporte
+RSUL4;68,07;367.309,42;8,08;5,89;-%;0,00;-9,79;29,68;Bens Industriais;Material de Transporte
+SANB11;33,21;100 %;7,67;1,18;8,54%;-;3,58;4,38;Financeiro e Outros;Intermediários Financeiros
+SANB3;15,58;584.710,88;7,19;1,11;8,67%;-;1,79;2,19;Financeiro e Outros;Intermediários Financeiros
+SANB4;17,87;908.817,64;8,25;1,27;8,31%;-;1,79;2,19;Financeiro e Outros;Intermediários Financeiros
+SAPR11;19,46;100 %;5,17;0,78;5,11%;0,39;3,30;10,72;Utilidade Pública;Água e Saneamento
+SAPR3;3,85;1.850.754,60;5,12;0,77;4,78%;0,39;0,66;2,14;Utilidade Pública;Água e Saneamento
+SAPR4;3,91;17.800.962,32;5,20;0,78;5,18%;0,39;0,66;2,14;Utilidade Pública;Água e Saneamento
+SBSP3;37,99;81.580.557,96;10,10;1,06;1,05%;0,56;1,42;5,59;Utilidade Pública;Água e Saneamento
+SCAR3;35,22;244.372,24;42,53;1,30;1,04%;0,72;1,51;1,50;Financeiro e Outros;Exploração de Imóveis
+SEDU3;23,80;-;-13,36;15,00;-%;4,15;-1,78;-1,78;Consumo Cíclico;Diversos
+SEER3;10,95;12.049.094,20;8,27;0,97;3,02%;0,05;1,28;1,06;Consumo Cíclico;Diversos
+SEQL3;11,50;31.159.528,16;879,57;2,66;-%;0,78;0,06;-;Bens Industriais;Transporte
+SGPS3;5,65;482.632,08;-2,39;0,28;-%;0,71;-6,42;0,23;Consumo Cíclico;Tecidos. Vestuário e Calçados
+SHOW3;3,73;1.992.193,12;-2,50;1,63;-%;-0,42;-1,61;-1,05;Consumo Cíclico;Viagens e Lazer
+SHUL3;111,89;62.944,50;99,99;23,64;0,21%;0,43;1,59;1,09;Bens Industriais;Máquinas e Equipamentos
+SHUL4;8,87;2.311.707,72;7,93;1,87;2,87%;0,43;1,59;1,09;Bens Industriais;Máquinas e Equipamentos
+SIMH3;11,15;28.013.080,64;13,16;2,66;0,77%;3,68;1,34;1,25;Financeiro e Outros;Holdings Diversificadas
+SLCE3;38,81;52.130.165,32;7,03;2,08;2,74%;0,62;2,56;1,63;Consumo não Cíclico;Agropecuária
+SLED3;0,66;162.207,96;-0,20;-0,08;-%;-;-6,62;-11,91;Consumo Cíclico;Comércio
+SLED4;0,33;560.891,52;-0,10;-0,04;-%;-;-6,62;-11,91;Consumo Cíclico;Comércio
+SMFT3;18,49;33.306.943,24;-17,29;2,40;-%;-0,01;-28,41;-18,94;Consumo Cíclico;Viagens e Lazer
+SMLS3;22,40;25.865.505,33;10,78;4,09;17,98%;-0,10;1,58;5,05;Consumo Cíclico;Diversos
+SMTO3;35,90;51.471.865,60;12,24;3,19;6,49%;1,16;2,62;1,76;Consumo não Cíclico;Alimentos Processados
+SNSY3;10,00;10.930,58;-0,73;-0,05;-%;-;-18,12;-;Materiais Básicos;Materiais Diversos
+SNSY5;5,39;17.374,52;-0,39;-0,03;-%;-;-18,12;-;Materiais Básicos;Materiais Diversos
+SNSY6;13,33;-;-0,97;-0,07;-%;-;-18,12;-;Materiais Básicos;Materiais Diversos
+SOMA3;13,91;73.394.033,84;37,04;1,52;-%;0,10;-0,15;-;Consumo Cíclico;Comércio
+SOND3;40,20;4.020,00;14,33;1,63;19,26%;-0,43;8,58;1,78;Bens Industriais;Construção e Engenharia
+SOND5;36,01;5.327,50;12,83;1,46;23,65%;-0,43;8,58;1,78;Bens Industriais;Construção e Engenharia
+SOND6;35,51;14.303,00;12,65;1,44;23,99%;-0,43;8,58;1,78;Bens Industriais;Construção e Engenharia
+SPRI3;21,72;-;-3,32;2,45;-%;-0,14;-6,54;-2,20;Financeiro e Outros;Holdings Diversificadas
+SPRI5;8,52;-;-1,30;0,96;-%;-0,14;-6,54;-2,20;Financeiro e Outros;Holdings Diversificadas
+SPRI6;11,00;-;-1,68;1,24;-%;-0,14;-6,54;-2,20;Financeiro e Outros;Holdings Diversificadas
+SPRT3B;76,40;-;-477,85;-139,83;-%;-;-0,09;-0,28;Financeiro e Outros;Outros
+SQIA3;16,81;15.076.387,76;126,87;1,85;0,12%;-0,47;0,07;-0,39;Tecnologia da Informação;Programas e Serviços
+STBP3;6,08;39.328.459,48;30,46;2,32;-%;-0,32;-0,02;0,02;Bens Industriais;Transporte
+STKF3;0,00;-;0,00;0,00;-%;0,14;0,27;0,32;Consumo Cíclico;Viagens e Lazer
+STTR3;0,00;-;0,00;0,00;-%;-0,09;0,46;0,43;Bens Industriais;Máquinas e Equipamentos
+SULA11;26,11;100 %;27,37;1,35;0,60%;-1,74;5,85;3,00;Financeiro e Outros;Previdência e Seguros
+SULA3;9,06;122.133,08;28,49;1,40;0,58%;-1,74;1,95;1,00;Financeiro e Outros;Previdência e Seguros
+SULA4;8,60;221.340,96;27,05;1,33;0,61%;-1,74;1,95;1,00;Financeiro e Outros;Previdência e Seguros
+SUZB3;58,32;377.061.691,04;6,49;5,87;-%;4,32;-7,88;-2,07;Materiais Básicos;Madeira e Papel
+TAEE11;35,90;100 %;4,72;1,79;12,98%;0,87;6,57;2,91;Utilidade Pública;Energia Elétrica
+TAEE3;11,98;1.371.184,36;4,73;1,79;12,97%;0,87;2,19;0,97;Utilidade Pública;Energia Elétrica
+TAEE4;11,95;2.711.585,56;4,71;1,78;13,00%;0,87;2,19;0,97;Utilidade Pública;Energia Elétrica
+TASA3;23,49;977.922,56;3,89;4,57;-%;0,57;2,96;0,51;Bens Industriais;Máquinas e Equipamentos
+TASA4;23,49;25.572.926,40;3,89;4,57;-%;0,57;2,96;0,51;Bens Industriais;Máquinas e Equipamentos
+TCNO3;2,68;135.426,68;-90,99;62,25;-%;118,00;-0,11;-;Bens Industriais;Construção e Engenharia
+TCNO4;1,79;214.432,00;-60,77;41,58;-%;118,00;-0,11;-;Bens Industriais;Construção e Engenharia
+TCSA3;3,57;4.352.897,76;-1,68;0,40;-%;0,57;-2,24;-0,32;Consumo Cíclico;Construção Civil
+TECN3;2,52;6.836.338,04;15,40;0,61;-%;0,07;-0,36;-1,56;Consumo Cíclico;Tecidos. Vestuário e Calçados
+TEKA3;26,10;2.610,00;-0,11;-0,01;-%;-;-230,11;-;Consumo Cíclico;Tecidos. Vestuário e Calçados
+TEKA4;10,59;42.862,32;-0,04;0,00;-%;-;-230,11;-;Consumo Cíclico;Tecidos. Vestuário e Calçados
+TELB3;45,80;38.876,25;-21,63;2,15;-%;-0,50;-1,57;-4,79;Comunicações;Telecomunicações
+TELB4;17,39;65.587,28;-8,21;0,82;-%;-0,50;-1,57;-4,79;Comunicações;Telecomunicações
+TEND3;17,96;35.284.816,88;12,58;1,27;0,99%;0,20;1,92;2,53;Consumo Cíclico;Construção Civil
+TESA3;48,00;1.340.759,40;-13,30;1,62;-%;1,01;-2,62;-7,52;Consumo não Cíclico;Agropecuária
+TFCO4;12,00;2.512.510,52;180,84;46,38;0,76%;0,06;0,03;-;Consumo Cíclico;Comércio
+TGMA3;15,69;6.654.465,96;9,64;1,55;5,01%;-0,03;1,12;2,94;Bens Industriais;Transporte
+TIET11;12,54;100 %;4,38;2,25;0,87%;2,34;2,12;0,76;Utilidade Pública;Energia Elétrica
+TIET3;3,49;558.793,42;6,09;3,13;0,63%;2,34;0,43;0,15;Utilidade Pública;Energia Elétrica
+TIET4;3,51;1.764.454,32;6,13;3,15;0,62%;2,34;0,43;0,15;Utilidade Pública;Energia Elétrica
+TIMS3;13,42;110.269.445,44;10,93;1,32;3,30%;0,16;0,76;1,38;Comunicações;Telecomunicações
+TKNO3;69,63;-;3,49;0,85;2,66%;0,04;4,34;5,46;Materiais Básicos;Siderurgia e Metalurgia
+TKNO4;60,00;11.199,67;3,01;0,74;3,47%;0,04;4,34;5,46;Materiais Básicos;Siderurgia e Metalurgia
+TOTS3;31,38;140.508.190,88;56,24;4,62;0,89%;-0,21;0,51;1,27;Tecnologia da Informação;Programas e Serviços
+TOYB3;2,29;-;-43,94;-4,97;-%;-;-0,05;-0,05;Consumo Cíclico;Viagens e Lazer
+TOYB4;2,50;-;-47,96;-5,43;-%;-;-0,05;-0,05;Consumo Cíclico;Viagens e Lazer
+TPIS3;2,04;5.648.838,04;1,23;0,39;2,02%;1,73;1,08;-1,09;Bens Industriais;Transporte
+TRIS3;5,52;10.490.237,40;6,48;0,83;4,38%;0,16;0,91;0,96;Consumo Cíclico;Construção Civil
+TRPL3;31,76;150.683,92;5,58;1,44;13,39%;0,36;5,10;2,68;Utilidade Pública;Energia Elétrica
+TRPL4;24,11;33.310.677,16;4,23;1,09;17,64%;0,36;5,10;2,68;Utilidade Pública;Energia Elétrica
+TUPY3;20,93;17.506.966,20;13,24;1,12;1,33%;0,37;-0,53;1,93;Bens Industriais;Material de Transporte
+TXRX3;34,00;6.800,00;-24,41;-0,47;-%;-;-4,20;-;Consumo Cíclico;Tecidos. Vestuário e Calçados
+TXRX4;8,40;10.728,86;-6,03;-0,12;-%;-;-4,20;-;Consumo Cíclico;Tecidos. Vestuário e Calçados
+UCAS3;4,29;146.459,40;10,98;1,72;2,47%;-0,35;0,22;0,27;Consumo Cíclico;Utilidades Domésticas
+UGPA3;14,89;128.207.766,24;18,52;1,70;4,30%;1,27;0,80;0,34;Petróleo. Gás e Biocombustíveis;Petróleo. Gás e Biocombustíveis
+UNIP3;98,49;4.579.615,24;5,86;3,67;9,71%;-0,18;3,89;1,99;Materiais Básicos;Químicos
+UNIP5;95,00;57.486,25;5,66;3,54;11,08%;-0,18;3,89;1,99;Materiais Básicos;Químicos
+UNIP6;97,40;37.351.477,24;5,80;3,63;10,80%;-0,18;3,89;1,99;Materiais Básicos;Químicos
+USIM3;14,01;5.782.007,04;2,14;0,87;8,00%;-0,06;0,54;0,17;Materiais Básicos;Siderurgia e Metalurgia
+USIM5;14,92;330.589.987,76;2,27;0,93;8,26%;-0,06;0,54;0,17;Materiais Básicos;Siderurgia e Metalurgia
+USIM6;18,97;1.897,00;2,89;1,18;6,50%;-0,06;0,54;0,17;Materiais Básicos;Siderurgia e Metalurgia
+VALE3;76,33;2.079.665.786,80;4,09;2,16;19,19%;0,08;5,05;-1,26;Materiais Básicos;Mineração
+VAMO3;11,89;38.339.398,92;34,37;4,26;1,65%;0,49;-;-;Bens Industriais;Máquinas e Equipamentos
+VIVA3;25,00;24.103.351,44;22,32;4,40;0,63%;-0,13;0,62;1,23;Consumo Cíclico;Tecidos. Vestuário e Calçados
+VIVR3;1,36;19.511.115,76;-2,45;-1,56;-%;-;-1,86;-4,76;Consumo Cíclico;Construção Civil
+VIVT3;49,96;151.491.528,52;17,25;1,22;5,91%;0,06;2,82;2,96;Comunicações;Telecomunicações
+VIVT4;45,34;-;15,65;1,11;-%;0,06;2,82;2,96;Comunicações;Telecomunicações
+VLID3;8,43;4.858.348,84;-28,44;0,56;-%;0,72;-2,84;0,76;Bens Industriais;Serviços
+VSPT3;4,99;-;-2,52;0,15;-%;-0,07;-0,83;-0,79;Bens Industriais;Transporte
+VSPT4;0,00;-;0,00;0,00;-%;-0,07;-0,83;-0,79;Bens Industriais;Transporte
+VULC3;9,96;9.719.495,68;8,52;1,92;3,51%;0,17;0,13;0,58;Consumo Cíclico;Tecidos. Vestuário e Calçados
+VVAR3;11,31;453.915.553,63;927,09;1,63;-%;1,49;0,63;-1,11;Consumo Cíclico;Comércio
+WEGE3;34,56;248.516.323,56;42,00;11,38;1,18%;-0,10;1,12;0,77;Bens Industriais;Máquinas e Equipamentos
+WHRL3;6,58;54.696,44;9,08;3,94;12,65%;-0,46;0,47;1,18;Consumo Cíclico;Comércio
+WHRL4;8,18;130.264,76;11,28;4,89;11,19%;-0,46;0,47;1,18;Consumo Cíclico;Comércio
+WIZS3;8,10;22.357.557,80;7,10;3,31;7,52%;-0,78;1,22;1,34;Financeiro e Outros;Previdência e Seguros
+WLMM3;35,00;14.624,00;13,64;2,40;1,63%;-0,30;1,49;1,37;Bens Industriais;Comércio
+WLMM4;36,01;65.696,38;14,04;2,47;1,74%;-0,30;1,49;1,37;Bens Industriais;Comércio
+WSON33;67,00;1.426.547,29;17,88;2,03;4,99%;1,12;1,57;1,62;Bens Industriais;Transporte
+YDUQ3;23,69;71.055.710,96;56,38;2,19;1,98%;0,98;0,32;2,09;Consumo Cíclico;Diversos
