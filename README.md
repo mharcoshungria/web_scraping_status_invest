@@ -1,8 +1,6 @@
-# Web Scraping com BeautifulSoup | Status Invest
+# Web Scraping - Status Invest
 
-Projeto inspirado no post Web scraping com Python para preguiçosos (unindo BeautifulSoup e Selenium) da Data Hackers.
-
-Fonte: https://medium.com/data-hackers/web-scraping-com-python-para-pregui%C3%A7osos-unindo-beautifulsoup-e-selenium-parte-1-9677fc5e2385
+Projeto inspirado no post [Web scraping com Python para preguiçosos (unindo BeautifulSoup e Selenium)](https://medium.com/data-hackers/web-scraping-com-python-para-pregui%C3%A7osos-unindo-beautifulsoup-e-selenium-parte-1-9677fc5e2385) da Data Hackers.
 
 Site utilizado para o Web Scraping: https://statusinvest.com.br/acoes
 
@@ -16,4 +14,3 @@ Site utilizado para o Web Scraping: https://statusinvest.com.br/acoes
 - Contém uma lista de funções e diversas perguntas frequentes com respostas.
 - Existe um ótimo livro sobre o assunto de leitura fácil: Web Scraping With Python — Ryan Mitchell.
 - Um ótimo projeto traduzido para português : https://medium.com/machina-sapiens/raspagem-de-dados-com-python-e-beautifulsoup-1b1b7019774c
-
